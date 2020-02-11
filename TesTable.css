@@ -1,0 +1,19 @@
+body{
+    width: 100%;
+}
+img{
+    height: 200;
+    width: 100;
+    justify-content: right;
+}
+table, th, td{
+    width: 50%;
+    border-collapse: collapse;
+    border: 1px solid rgb(219, 231, 222) ;
+}
+th{
+    background-color: rgb(146, 173, 224);
+}
+#caption{
+    background-color: rgb(184, 202, 236);
+}
